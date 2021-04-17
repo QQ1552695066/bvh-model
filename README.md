@@ -1,6 +1,6 @@
 # bvh-model
 This repository shows a sample demo to construct a bvh(Bounding Volume Hierarchy) model from pointclouds
-It is usually very useful in collision ckeck.
+<br>It is usually very useful in collision ckeck.
 
 
 ![mypic](https://github.com/QQ1552695066/Robotic-arm-collision-check/blob/master/result.PNG)
