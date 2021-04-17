@@ -4,6 +4,7 @@ It is usually very useful in collision ckeck.
 
 
 ![mypic](https://github.com/QQ1552695066/Robotic-arm-collision-check/blob/master/result.PNG)
-the result of bvh 
+<br>the result of bvh \<br>
 
+##run
 you can run main.m in matlab to show the result.
